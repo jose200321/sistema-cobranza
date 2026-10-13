@@ -1,0 +1,11 @@
+AuthServiceProxy\java.class
+pe\distribuidora\util\SecurityUtil.class
+pe\distribuidora\config\ConexionBD.class
+pe\distribuidora\service\AuthResult.class
+app\Controllers\LoginServlet.class
+pe\distribuidora\service\IAuthService.class
+AuthServiceProxy.class
+pe\distribuidora\service\AuthServiceImpl.class
+AuthServicesProxy.class
+pe\distribuidora\service\AuthServiceProxy.class
+app\Controllers\MainServlet.class
